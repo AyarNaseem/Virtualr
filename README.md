@@ -11,7 +11,7 @@ The project focuses on building clean UI components, responsive layouts, and exp
 	•	Learn modern CSS workflows through hands-on building
 
 ### 🛠 Technologies Used
+	•	React
 	•	Tailwind CSS
 	•	HTML / JSX
 	•	JavaScript 
-    •.  React — depending on how you built it
